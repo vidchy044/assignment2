@@ -12,8 +12,8 @@ example of output :
 
 First name : vidchayada Last name : abhicharttibutra GPA : 1.7 Student ID : 672115044 is pushed to the stack
 First name : vidchayada Last name : abhicharttibutra GPA : 1.7 Student ID : 672115044 is poped from the stack
-First name : chanchakorn Last name : Chulapech GPA : 4.0 Student ID : 672115007 is pushed to the stack
-First name : chanchakorn Last name : Chulapech GPA : 4.0 Student ID : 672115007 is poped from the stack
+First name : Bom Last name : voyage GPA : 4.0 Student ID : 672115009 is pushed to the stack
+First name : Bom Last name : voyage GPA : 4.0 Student ID : 672115009 is poped from the stack
 First name : John Last name : Doe GPA : 2.0 Student ID : 67213365 is pushed to the stack
 First name : John Last name : Doe GPA : 2.0 Student ID : 67213365 is poped from the stack
 First name : Jimmy Last name : Doeson GPA : 4.0 Student ID : 672115005 is pushed to the stack
