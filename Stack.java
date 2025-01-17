@@ -60,7 +60,7 @@ public class Stack {
 
         stack.push("vidchayada", "abhicharttibutra", 1.7, 672115044);
         System.out.println(stack.pop()+" is poped from the stack");
-        stack.push("chanchakorn", "Chulapech", 4.0, 672115007);
+        stack.push("Bom", "voyage", 4.0, 672115009);
         System.out.println(stack.pop()+" is poped from the stack");
         stack.push("John", "Doe", 2.0, 67213365);
         System.out.println(stack.pop()+" is poped from the stack");
@@ -76,4 +76,3 @@ public class Stack {
         System.out.println(" There is "+stack.size()+" element left in the stack");
 }
 }
-
